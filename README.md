@@ -1,5 +1,4 @@
 # X-Ample UtilliTruck *(re-developed)*
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/X8X51AO0VG)
 ## Overview
 This script adds fully operational bucket movement capabilities for utility trucks in GTA V, allowing you to raise, lower, and rotate the bucket—with any peds onboard—and enhancing vehicle with refined livery, warning lights, and stabilizer legs.
 
@@ -18,3 +17,4 @@ This script adds fully operational bucket movement capabilities for utility truc
 ### Installation
 Not much hassle, just drag and drop into your server's resources folder.
 NOTE: *this script does not replace the default utility truck; it creates a new vehicle, `utillitruck4`.*
+
