@@ -18,3 +18,7 @@ This script adds fully operational bucket movement capabilities for utility truc
 Not much hassle, just drag and drop into your server's resources folder.
 NOTE: *this script does not replace the default utility truck; it creates a new vehicle, `utillitruck4`.*
 
+### Credits
+
+[BigSmoKe](https://github.com/BigSmoKe07/smoke_utillitruck)
+
